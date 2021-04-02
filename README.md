@@ -1,2 +1,2 @@
 # SpringbootOpenshitMysqlDemo
-Demo project for Spring Boot MySql Openshift
+Demo project for Spring Boot MySql using Openshift
